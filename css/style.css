@@ -1,0 +1,50 @@
+body {
+  background: linear-gradient(grey, white);
+}
+
+.title {
+  font-family: Georgia;
+  text-align: center;
+}
+
+.ansel-camera {
+  text-align: center;
+  font-family: Georgia;
+}
+
+img {
+  border-radius: 8px;
+  max-width: 100%;
+  height: auto;
+  border: black solid 2px;
+}
+
+figcaption {
+  margin: 10px;
+  font-family: Georgia;
+  display: block;
+}
+
+.list-title {
+  font-family: Georgia;
+  text-align: center;
+}
+
+.timeline {
+  font-family: Georgia;
+}
+
+.quote-jimmy {
+  text-align: center;
+  font-weight: bold;
+  font-family: Georgia;
+}
+
+#pres {
+  color: grey;
+}
+
+.wiki{
+  text-align: center;
+  font-family: Georgia;
+}
